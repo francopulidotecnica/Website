@@ -9,7 +9,7 @@
     background-color: #dbd8d862; /* Background color */
     width: 275px;
     height: 220px;
-    position:static;
+    position: absolute;
 }
  .box {
     border: 1px solid #72b187;
